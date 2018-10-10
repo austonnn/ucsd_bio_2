@@ -1,0 +1,3 @@
+['GGGV', 'GGVG', 'GGR', 'GVGG', 'GVN', 'GNV', 'GRG', 'AAGA', 'AAAG', 'AAK', 'AKA', 'NGV', 'NVG', 'NR', 'RGG', 'RN']
+
+NVG, NR, NGV, KAA, VNG, VGN, VGGG,  AKA,  AAK,  AAAG, AAGA, AGAA, RN, RGG, GNV, GVN, GVGG, GAAA, GRG, GGVG, GGR, GGGV

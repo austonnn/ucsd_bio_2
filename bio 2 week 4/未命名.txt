@@ -1,0 +1,35 @@
+Val V 99 
+Lys K 128
+Leu L 113 
+Phe F 147
+Pro P 97 
+Trp W 186 
+Phe F 147
+Asn N 114 
+Gln Q 128
+Tyr Y 163
+
+99 163 146 82 161 129 98 147 145 96
+99 163 146 82 161 129 98 147 145 96
+116 146 146 82 161 129 98 164 96 128
+
+asn gln tyr val lys leu phe pro trp trp
+114 128 163 99 128 113 147 97 186 186
+
+asn gln tyr val lys leu phe pro phe phe
+114 128 163 99 128 113 147 97 147 147
+114 128 163 99 128 113 147 97   
+NQYVKLFPFF
+
+ 115, 
+VKLFPWFNQY
+
+
+
+
+
+
+
+
+
+

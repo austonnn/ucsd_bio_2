@@ -1,0 +1,4 @@
+Log y = log k + m * log C
+
+
+print(math.e ** (math.log(73400706389433/14712706211) / 310 ))
